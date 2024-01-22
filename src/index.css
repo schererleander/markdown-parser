@@ -47,3 +47,19 @@ header h2 {
 .editor textarea {
   resize: none;
 }
+
+.preview code {
+  font-family: monospace;
+  font-size: smaller;
+  color: red;
+  background-color: rgb(226, 226, 226);
+  border: 1px solid gray;
+  border-radius: 4px;
+  padding: 3px;
+}
+
+.preview blockquote {
+  padding: 4px;
+  background: lightgray;
+  border-left: 4px solid gray;
+}
