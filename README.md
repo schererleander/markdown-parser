@@ -1,6 +1,6 @@
 # Markdown Parser
 
-![Webpage](.images/screenshot.png)
+![Webpage](screenshot.png)
 
 A simple Markdown parser built with React that utilizes `dangerouslySetInnerHTML()`. **Note:** This approach is not recommended for production use, as it can expose your application to potential security risks, including the execution of malicious code.
 
